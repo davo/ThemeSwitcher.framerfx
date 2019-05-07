@@ -1,0 +1,417 @@
+{
+  "root" : {
+    "__class" : "RootNode",
+    "children" : [
+      {
+        "__class" : "FrameNode",
+        "aspectRatio" : null,
+        "blendingEnabled" : 0,
+        "blendingMode" : "normal",
+        "bottom" : null,
+        "boxShadows" : [
+          {
+            "__class" : "BoxShadow",
+            "blur" : 10,
+            "color" : "hsla(0, 0%, 0%, 0.11)",
+            "enabled" : true,
+            "inset" : false,
+            "spread" : 0,
+            "x" : 0,
+            "y" : 2
+          }
+        ],
+        "centerAnchorX" : 0.70133333333333336,
+        "centerAnchorY" : 1.1262315270935961,
+        "children" : [
+          {
+            "__class" : "CodeComponentNode",
+            "aspectRatio" : null,
+            "bottom" : 161,
+            "centerAnchorX" : 0.24132492113564669,
+            "centerAnchorY" : 0.58240000000000003,
+            "children" : [
+
+            ],
+            "clip" : true,
+            "codeComponentIdentifier" : "@framer\/asci.animate\/.\/Animate.tsx_Animate",
+            "codeComponentProps" : {
+              "bounce" : false,
+              "delay" : 0,
+              "duration" : 300,
+              "easing" : "ease-out-back",
+              "opacityEnd" : 1,
+              "opacityStart" : 0,
+              "overflow" : "hide",
+              "positionEnd" : 0,
+              "positionStart" : 0,
+              "rotateEnd" : 0,
+              "rotateStart" : 0,
+              "scaleEnd" : 1,
+              "scaleStart" : 0,
+              "sizing" : "container",
+              "target" : "scale",
+              "transformOriginXPercent" : 50,
+              "transformOriginXPixels" : 0,
+              "transformOriginXType" : "px",
+              "transformOriginYPercent" : 50,
+              "transformOriginYPixels" : 0,
+              "transformOriginYType" : "px",
+              "trigger" : "tap"
+            },
+            "codeOverrideEnabled" : false,
+            "constraintsLocked" : false,
+            "deviceType" : null,
+            "exportOptions" : [
+
+            ],
+            "fillColor" : "rgba(255,255,255,1)",
+            "fillEnabled" : false,
+            "fillGradient" : {
+              "__class" : "LinearGradient",
+              "alpha" : 1,
+              "angle" : 0,
+              "end" : "rgba(0,0,0,0)",
+              "start" : "black"
+            },
+            "fillImage" : null,
+            "fillImagePixelHeight" : null,
+            "fillImagePixelWidth" : null,
+            "fillImageResize" : "fill",
+            "fillType" : "color",
+            "height" : 200,
+            "heightType" : 0,
+            "id" : "@framer\/asci.animate-VauFBlugL-AuzIqaLth",
+            "intrinsicHeight" : null,
+            "intrinsicWidth" : null,
+            "left" : 53,
+            "locked" : false,
+            "name" : null,
+            "opacity" : 1,
+            "originalid" : null,
+            "parentid" : "@framer\/asci.animate-VauFBlugL",
+            "previewSettings" : null,
+            "radius" : 0,
+            "radiusBottomLeft" : 0,
+            "radiusBottomRight" : 0,
+            "radiusIsRelative" : false,
+            "radiusPerCorner" : false,
+            "radiusTopLeft" : 0,
+            "radiusTopRight" : 0,
+            "right" : null,
+            "rotation" : 0,
+            "top" : null,
+            "visible" : true,
+            "width" : 200,
+            "widthType" : 0
+          },
+          {
+            "__class" : "TextNode",
+            "autoSize" : false,
+            "bottom" : null,
+            "centerAnchorX" : 0.23580441640378549,
+            "centerAnchorY" : 0.31840000000000002,
+            "codeOverrideEnabled" : false,
+            "constraintsLocked" : false,
+            "exportOptions" : [
+
+            ],
+            "height" : 76,
+            "heightType" : 0,
+            "id" : "@framer\/asci.animate-VauFBlugL-DUk1OP5uw",
+            "isTarget" : false,
+            "left" : 53,
+            "locked" : false,
+            "name" : null,
+            "opacity" : 1,
+            "originalid" : null,
+            "parentid" : "@framer\/asci.animate-VauFBlugL",
+            "right" : null,
+            "rotation" : 0,
+            "styledText" : {
+              "__class" : "StyledTextDraft",
+              "blocks" : [
+                {
+                  "data" : {
+                    "emptyStyle" : [
+                      "COLOR:rgb(0, 0, 0)",
+                      "SIZE:16",
+                      "LETTERSPACING:0",
+                      "LINEHEIGHT:1.2",
+                      "FONT:Inter-Regular"
+                    ]
+                  },
+                  "depth" : 0,
+                  "entityRanges" : [
+
+                  ],
+                  "inlineStyleRanges" : [
+                    {
+                      "length" : 67,
+                      "offset" : 0,
+                      "style" : "COLOR:rgb(0, 0, 0)"
+                    },
+                    {
+                      "length" : 67,
+                      "offset" : 0,
+                      "style" : "SIZE:16"
+                    },
+                    {
+                      "length" : 67,
+                      "offset" : 0,
+                      "style" : "LETTERSPACING:0"
+                    },
+                    {
+                      "length" : 67,
+                      "offset" : 0,
+                      "style" : "LINEHEIGHT:1.2"
+                    },
+                    {
+                      "length" : 67,
+                      "offset" : 0,
+                      "style" : "FONT:Inter-Regular"
+                    }
+                  ],
+                  "key" : "6t44k",
+                  "text" : "Place Animate component in place where you want animation to happen",
+                  "type" : "unstyled"
+                }
+              ],
+              "cached" : {
+                "html" : "<div data-offset-key=\"6t44k-0-0\" class=\"public-DraftStyleDefault-block public-DraftStyleDefault-ltr\"><span data-offset-key=\"6t44k-0-0\" style=\"tab-size:4;font-weight:400;font-family:&quot;Inter-Regular&quot;, &quot;Inter&quot;, serif;-webkit-text-fill-color:rgb(0, 0, 0);font-size:16px;letter-spacing:0px;line-height:1.2\"><span data-text=\"true\">Place Animate component in place where you want animation to happen<\/span><\/span><\/div>",
+                "os" : "10_14",
+                "size" : {
+                  "height" : 76,
+                  "width" : 194
+                },
+                "width" : 193
+              },
+              "entityMap" : {
+
+              }
+            },
+            "top" : 161,
+            "visible" : true,
+            "width" : 193,
+            "widthType" : 0
+          },
+          {
+            "__class" : "TextNode",
+            "autoSize" : false,
+            "bottom" : null,
+            "centerAnchorX" : 0.76261829652996849,
+            "centerAnchorY" : 0.31840000000000002,
+            "codeOverrideEnabled" : false,
+            "constraintsLocked" : false,
+            "exportOptions" : [
+
+            ],
+            "height" : 38,
+            "heightType" : 0,
+            "id" : "@framer\/asci.animate-VauFBlugL-pN4LvwZIu",
+            "isTarget" : false,
+            "left" : null,
+            "locked" : false,
+            "name" : null,
+            "opacity" : 1,
+            "originalid" : null,
+            "parentid" : "@framer\/asci.animate-VauFBlugL",
+            "right" : 54,
+            "rotation" : 0,
+            "styledText" : {
+              "__class" : "StyledTextDraft",
+              "blocks" : [
+                {
+                  "data" : {
+                    "emptyStyle" : [
+                      "COLOR:rgb(0, 0, 0)",
+                      "SIZE:16",
+                      "LETTERSPACING:0",
+                      "LINEHEIGHT:1.2",
+                      "FONT:Inter-Regular"
+                    ]
+                  },
+                  "depth" : 0,
+                  "entityRanges" : [
+
+                  ],
+                  "inlineStyleRanges" : [
+                    {
+                      "length" : 43,
+                      "offset" : 0,
+                      "style" : "COLOR:rgb(0, 0, 0)"
+                    },
+                    {
+                      "length" : 43,
+                      "offset" : 0,
+                      "style" : "SIZE:16"
+                    },
+                    {
+                      "length" : 43,
+                      "offset" : 0,
+                      "style" : "LETTERSPACING:0"
+                    },
+                    {
+                      "length" : 43,
+                      "offset" : 0,
+                      "style" : "LINEHEIGHT:1.2"
+                    },
+                    {
+                      "length" : 43,
+                      "offset" : 0,
+                      "style" : "FONT:Inter-Regular"
+                    }
+                  ],
+                  "key" : "6t44k",
+                  "text" : "Connect it to frame that should be animated",
+                  "type" : "unstyled"
+                }
+              ],
+              "cached" : {
+                "html" : "<div data-offset-key=\"6t44k-0-0\" class=\"public-DraftStyleDefault-block public-DraftStyleDefault-ltr\"><span data-offset-key=\"6t44k-0-0\" style=\"tab-size:4;font-weight:400;font-family:&quot;Inter-Regular&quot;, &quot;Inter&quot;, serif;-webkit-text-fill-color:rgb(0, 0, 0);font-size:16px;letter-spacing:0px;line-height:1.2\"><span data-text=\"true\">Connect it to frame that should be animated<\/span><\/span><\/div>",
+                "os" : "10_14",
+                "size" : {
+                  "height" : 38,
+                  "width" : 194
+                },
+                "width" : 193
+              },
+              "entityMap" : {
+
+              }
+            },
+            "top" : 161,
+            "visible" : true,
+            "width" : 193,
+            "widthType" : 0
+          },
+          {
+            "__class" : "FrameNode",
+            "aspectRatio" : null,
+            "blendingEnabled" : 0,
+            "blendingMode" : "normal",
+            "bottom" : 161,
+            "centerAnchorX" : 0.76261829652996849,
+            "centerAnchorY" : 0.58240000000000003,
+            "children" : [
+
+            ],
+            "clip" : false,
+            "codeOverrideEnabled" : false,
+            "constraintsLocked" : false,
+            "deviceType" : null,
+            "exportOptions" : [
+
+            ],
+            "fillColor" : "rgba(221, 221, 221, 1.00)",
+            "fillEnabled" : true,
+            "fillGradient" : {
+              "__class" : "LinearGradient",
+              "alpha" : 1,
+              "angle" : 0,
+              "end" : "rgba(0,0,0,0)",
+              "start" : "black"
+            },
+            "fillImage" : null,
+            "fillImagePixelHeight" : null,
+            "fillImagePixelWidth" : null,
+            "fillImageResize" : "fill",
+            "fillType" : "color",
+            "height" : 200,
+            "heightType" : 0,
+            "id" : "@framer\/asci.animate-VauFBlugL-jXdbMXehV",
+            "intrinsicHeight" : null,
+            "intrinsicWidth" : null,
+            "isExternalMaster" : null,
+            "isMaster" : false,
+            "isTarget" : false,
+            "left" : null,
+            "locked" : false,
+            "name" : null,
+            "navigationTarget" : null,
+            "navigationTransition" : "push",
+            "navigationTransitionBackdropColor" : "rgba(4,4,15,.4)",
+            "navigationTransitionDirection" : "left",
+            "opacity" : 1,
+            "originalid" : null,
+            "parentid" : "@framer\/asci.animate-VauFBlugL",
+            "previewSettings" : null,
+            "radius" : 21,
+            "radiusBottomLeft" : 21,
+            "radiusBottomRight" : 21,
+            "radiusIsRelative" : false,
+            "radiusPerCorner" : false,
+            "radiusTopLeft" : 21,
+            "radiusTopRight" : 21,
+            "replicaInfo" : null,
+            "right" : 54,
+            "rotation" : 0,
+            "top" : null,
+            "visible" : true,
+            "width" : 200,
+            "widthType" : 0
+          }
+        ],
+        "clip" : false,
+        "codeOverrideEnabled" : false,
+        "constraintsLocked" : false,
+        "deviceType" : null,
+        "exportOptions" : [
+
+        ],
+        "fillColor" : "hsl(0, 0%, 100%)",
+        "fillEnabled" : true,
+        "fillGradient" : {
+          "__class" : "LinearGradient",
+          "alpha" : 1,
+          "angle" : 0,
+          "end" : "rgba(0,0,0,0)",
+          "start" : "black"
+        },
+        "fillImage" : null,
+        "fillImagePixelHeight" : null,
+        "fillImagePixelWidth" : null,
+        "fillImageResize" : "fill",
+        "fillType" : "color",
+        "height" : 625,
+        "heightType" : 0,
+        "id" : "@framer\/asci.animate-VauFBlugL",
+        "intrinsicHeight" : null,
+        "intrinsicWidth" : null,
+        "isExternalMaster" : "@framer\/asci.animate",
+        "isMaster" : true,
+        "isTarget" : false,
+        "left" : 0,
+        "locked" : false,
+        "name" : "How to use",
+        "navigationTarget" : null,
+        "navigationTransition" : "push",
+        "navigationTransitionBackdropColor" : "rgba(4,4,15,.4)",
+        "navigationTransitionDirection" : "left",
+        "opacity" : 1,
+        "originalid" : null,
+        "parentid" : "G5mDeJP3Q",
+        "previewSettings" : null,
+        "radius" : 20,
+        "radiusBottomLeft" : 20,
+        "radiusBottomRight" : 20,
+        "radiusIsRelative" : false,
+        "radiusPerCorner" : false,
+        "radiusTopLeft" : 20,
+        "radiusTopRight" : 20,
+        "replicaInfo" : null,
+        "right" : null,
+        "rotation" : 0,
+        "top" : 0,
+        "visible" : true,
+        "width" : 634,
+        "widthType" : 0
+      }
+    ],
+    "id" : "G5mDeJP3Q",
+    "name" : null,
+    "originalid" : null,
+    "parentid" : null,
+    "visible" : false
+  },
+  "version" : 48
+}

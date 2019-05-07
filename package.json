@@ -1,0 +1,16 @@
+{
+	"main": "build/index.js",
+	"license": "MIT",
+	"devDependencies": {
+		"@types/react": "^16.8"
+	},
+	"peerDependencies": {
+		"framer": "^1.0 || ^1.0.0-beta",
+		"react": "^16.8"
+	},
+	"dependencies": {},
+	"framer": {
+		"id": "c7e28c93-310d-4cf1-9821-18e1dcf7ed75"
+	},
+	"author": "Davo Galavotti"
+}
